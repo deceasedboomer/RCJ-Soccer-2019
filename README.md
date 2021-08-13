@@ -8,3 +8,5 @@ We were inspired by their unique IR ring which could detect the IR signals emitt
 Our omni-directional soccer robot is run by a Teensy 3.6 (a microprocessor), which we coded on the Arduino platform. 
 Our robot's carbon fibre plates are completely self-designed using AutoCad and we also designed our own Printed Circuit Board (PCB) on Eagle.
 We also 3D-printed our wheels and fitted them with rubber rollers. We were also planning to integrate an OpenMV M7 Camera for goal detection but was eventually scrapped due to a lack of time.
+
+Many thanks to my teammates Shaoliang and Justin for taking charge of the mechanical and electronic design respectively. A huge shoutout to entire Hwa Chong Robotics community for being supportive and helping me get started on RoboCup programming. :)
