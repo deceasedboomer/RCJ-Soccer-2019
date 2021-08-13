@@ -27,6 +27,6 @@ Generally speaking, we designated 1 robot as the attacker while the other functi
 # What Actually Happened
 Apart from a lack of time, we also encountered many hardware failures and as such (spoiler alert) **many things were spaghetti coded.** The BNO-055 compass failed to callibrate properly on the actual competition day and we were forced to do without a compass for most of the matches. The front light sensors were also returning incosistent readings, presumeably due to poor soldering. This led to our robots going out-of-bounds many times as we didn't have a front ultrasonic sensor at the front we could fall back on to detect where we were. 
 
-Ultimately, placing 4th was not ideal, but given the circumstances where we literally only assembled the robot and got it up and running 3 weeks before the competition, it was to be expected. This was also my first major coding project as I have only picked up coding last year so all in all, it was a great learning experience overall.
+Ultimately, placing 4th was not ideal, but given the circumstances where we literally only assembled the robot and got it up and running 3 weeks before the competition, it was to be expected. This was also my first major coding project as I have only picked up coding last year so all in all, it was a great learning experience.
 
 Many thanks to my teammates Shaoliang and Justin for taking charge of the mechanical and electronic design respectively. A huge shoutout to entire Hwa Chong Robotics community for being supportive and helping me get started on RoboCup programming. :)
