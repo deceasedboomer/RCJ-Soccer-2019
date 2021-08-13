@@ -1,4 +1,6 @@
-// ***DISCLAIMER, my camera program never worked before so haha sike*** //
+// ***DISCLAIMER, my camera program never actually worked*** //
+
+//attempted to use serial communication with an OPENMV M7 program initially which we eventually abandoned due to a lack of time.
 
 void readcam()  {
   while(Serial2.available()>0)  Serial.println(Serial2.read());
