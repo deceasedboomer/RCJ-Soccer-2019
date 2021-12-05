@@ -1,6 +1,6 @@
 # RCJ-Soccer-2019
 
-This is my program for RoboCup Junior Soccer (Lightweight) Singapore Open 2019 as part of Team Ascension. We finished 4th in the competition, where teams build robots to play robot soccer with an Infrared Ball in a 2v2 match.
+This is my program for RoboCup Junior Soccer (Lightweight) Singapore Open 2019 as part of Team Ascension. Team members consists of: Deng Jun (myself), Justin Sim (electrical designer) and Shaoliang (hardware/mech designer) the We finished 4th in the competition, where teams build robots to play robot soccer with an Infrared Ball in a 2v2 match.
 
 This program was adapted from LJStand, the 2018 Lightweight World Champions from Brisbane Boys' College, Australia. (Their gitbucket can be found here: https://bitbucket.org/ljstand/)
 We were inspired by their unique IR ring which could detect the IR signals emitted from the ball very well, which led to them dominating the international competition in 2018.
