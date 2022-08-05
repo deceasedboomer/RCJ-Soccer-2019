@@ -1,6 +1,11 @@
-# RCJ-Soccer-2019
+# RCJ-Soccer-LW-2019
 
-This was my program for RoboCup Junior Soccer (Lightweight) Singapore Open 2019 as part of Team Ascension. Team members consists of: Deng Jun (myself, programmer), Justin (electrical designer) and Shaoliang (hardware/mech designer). We finished 4th in the competition, where teams build robots to play robot soccer with an Infrared Ball in a 2v2 match.
+This was my program for RoboCup Junior Soccer (Lightweight) Singapore Open 2019 as part of Team Ascension. We finished 4th in the competition, where teams build robots to play robot soccer with an Infrared Ball in a 2v2 match.
+#
+Team members consists of: 
+* Deng Jun (myself, programmer)
+* Justin (electrical designer) 
+* Shaoliang (hardware/mech designer).
 
 This program was adapted from LJStand, the 2018 Lightweight World Champions from Brisbane Boys' College, Australia. (Their gitbucket can be found here: https://bitbucket.org/ljstand/)
 We were inspired by their unique IR ring which could detect the IR signals emitted from the ball very well, which led to them dominating the international competition in 2018.
@@ -10,7 +15,7 @@ We were inspired by their unique IR ring which could detect the IR signals emitt
 * Arduino Nano (Slave microcontroller via Serial Communication)
 * 3 HC-SR04 Ultrasonic sensors
 * 16 TSSP58038 IR sensors placed in a ring
-* 28 pairs of LEDs and LDRs to form a light sensor ring
+* 28 pairs of white LEDs and LDRs to form a light sensor ring
 * Adafruit BNO-055 Compass
 * 4x motor drivers and brushless motors
 * Self-designed 3D-printed motor mounts and wheels with rubber rollers
