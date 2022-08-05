@@ -5,7 +5,7 @@ This was my program for RoboCup Junior Soccer (Lightweight) Singapore Open 2019 
 Team members consists of: 
 * Deng Jun (myself, programmer)
 * Justin (electrical designer) 
-* Shaoliang (hardware/mech designer).
+* Shaoliang (hardware/mech designer)
 
 This program was adapted from LJStand, the 2018 Lightweight World Champions from Brisbane Boys' College, Australia. (Their gitbucket can be found here: https://bitbucket.org/ljstand/)
 We were inspired by their unique IR ring which could detect the IR signals emitted from the ball very well, which led to them dominating the international competition in 2018.
